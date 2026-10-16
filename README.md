@@ -4,6 +4,10 @@
 
 I build backend services and data systems, with around ten years of software engineering experience. My focus is making complex workflows reliable, observable, and maintainable.
 
+## Technical portfolio
+
+[Data engineering and system design portfolio](https://chao-studio-20261016.sunlithawk2.chatgpt.site): experience-based demos and anonymized production case studies.
+
 ## What I work on
 
 - **Backend platforms:** Java / Spring Boot services, configurable business workflows, versioned releases, reward processing, and application governance.
